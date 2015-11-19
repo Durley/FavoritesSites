@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LugaresFavoritos</string>
+    <string name="title_activity_crud">CRUD</string>
+    <string name="action_settings">Settings</string>
+    <string name="nuevo">Crear Lugar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar Lugar</string>
+    <string name="borrar">Borrar Lugar</string>
+    <string name="nombre">Nombre</string>
+    <string name="url">URL</string>
+    <string name="guardar">Guardar Lugar</string>
+    <string name="lugares">Lugares</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="regresar">Regresar</string>
+    <string name="salir">Salir</string>
+    <string name="borrarLugar">¿Está seguro de querer borrar este lugar?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="title_activity_navegador">Navegador</string>
+</resources>
+

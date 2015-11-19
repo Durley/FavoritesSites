@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/lugares"
+        android:title="@string/lugares"/>
+
+    <item android:id="@+id/refrescar"
+        android:title="@string/refrescar"/>
+
+    <item android:id="@+id/regresar"
+        android:title="@string/regresar"/>
+
+    <item android:id="@+id/salir"
+        android:title="@string/salir"/>
+
+</menu>
